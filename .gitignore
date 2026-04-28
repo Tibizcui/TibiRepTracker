@@ -39,3 +39,15 @@ luac.out
 *.x86_64
 *.hex
 
+# Logs & temp files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# WoW specific (optional but propre)
+WTF/
+Interface/
+Cache/
