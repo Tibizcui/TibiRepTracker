@@ -1,0 +1,21 @@
+## Interface: 120005
+## Title: Tibi-RepTracker - |cFF9480FFMidnight|r
+## IconTexture: Interface\AddOns\TibiRepTracker\medias\Tibi-repTracker
+## Notes: Suivi des reputations Midnight. Renown 1-20, quetes hebdo/uniques/quotidiennes.
+## Author: Tibiscui - Kirin Tor
+## Version: 1.0.0
+## SavedVariables: TibiRepTrackerDB
+
+## Category: Reputation
+## Category-deDE: Ruf
+## Category-esES: Reputacion
+## Category-esMX: Reputacion
+## Category-frFR: Reputations
+## Category-itIT: Reputazione
+## Category-koKR: 평판
+## Category-ptBR: Reputacao
+## Category-ruRU: Репутация
+## Category-zhCN: 声望
+## Category-zhTW: 聲望
+
+TibiRepTracker.lua
