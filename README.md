@@ -8,7 +8,7 @@ Take full control of your Midnight reputation grind with TibiRepTracker, a clean
 
 No more confusion, no more missed quests — everything you need is clearly organized in one place.
 
----------- ---------- --------
+########## ########## ##########
 
  Key Features
 Complete Reputation Overview
